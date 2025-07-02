@@ -43,7 +43,7 @@ export default function AboutSection() {
             
             <div className="grid grid-cols-2 gap-6">
               <div className="text-center p-4 bg-gray-50 rounded-lg">
-                <div className="text-2xl font-bold text-navy">5+</div>
+                <div className="text-2xl font-bold text-navy">4+</div>
                 <div className="text-slate">Projects</div>
               </div>
               <div className="text-center p-4 bg-gray-50 rounded-lg">
